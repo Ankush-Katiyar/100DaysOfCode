@@ -1,7 +1,4 @@
-
-![Dark Blue White Lined Space Theme Easel Activity Background (1)](https://github.com/Ankush-Katiyar/100DaysOfCode/assets/89477915/17e2ee26-3333-4200-af5a-39b513cde3a7)
-
-
+![Dark Blue White Lined Space Theme Easel Activity Background](https://github.com/Ankush-Katiyar/100DaysOfCode/assets/89477915/67c0e217-f021-4909-8b83-407fd1bc115e)
 # 100DaysOfCode
 
 I am committing to 100 days of code challenge.
