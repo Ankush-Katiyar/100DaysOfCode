@@ -3,7 +3,8 @@
 
 I am committing to 100 days of code challenge.
 * Day 1
-Practised basics of Hello world.
+Practiced basics of Hello World.
 * Day 2
 Did Variables and Datatypes.
-
+* Day 3
+  
