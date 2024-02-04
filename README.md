@@ -7,4 +7,6 @@ Practiced basics of Hello World.
 * Day 2
 Did Variables and Datatypes.
 * Day 3
+Input of Two Integers
+* Day 4
   
