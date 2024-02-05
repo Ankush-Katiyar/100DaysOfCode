@@ -11,4 +11,6 @@ Input of Two Integers
 * Day 4
 Else if Statements
 * Day 5
-
+While and Do While
+* Day 6
+  
