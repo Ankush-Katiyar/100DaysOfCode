@@ -13,4 +13,4 @@ Else if Statements
 * Day 5
 While and Do While
 * Day 6
-  
+Half Pyramid Problem
