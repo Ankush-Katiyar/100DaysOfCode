@@ -5,7 +5,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-I am committing to 100 days of code challenge.
+I am committing to 100 days of code challenge, Don't forget to follow me on Linkedin and Twitter!!
 * Day 1
 Practiced basics of Hello World.
 * Day 2
