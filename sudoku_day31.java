@@ -1,5 +1,6 @@
 class Solution {
    public boolean isSafe(char[][] board, int row, int col, int number) {
+       
        //column
        for(int i=0; i<board.length; i++) {
            if(board[i][col] == (char)(number+'0')) {
@@ -14,7 +15,7 @@ class Solution {
            }
        }
       
-       //grid
+       //Grid
        int sr = 3 * (row/3);
        int sc = 3 * (col/3);
       
@@ -34,8 +35,8 @@ class Solution {
            return true;
        }
       
-       int nrow = 0;
-       int ncol = 0;
+       int nrow = 0; //n = new means new row
+       int ncol = 0; // new column
       
        if(col == board.length-1) {
            nrow = row + 1;
