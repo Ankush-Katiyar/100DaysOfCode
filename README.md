@@ -95,3 +95,33 @@ Half Pyramid Problem
 * Day 44
 
 * Day 45
+
+* Day 46
+
+* Day 47
+
+* Day 48
+
+* Day 49
+
+* Day 50
+
+* Day 51
+
+* Day 52
+
+* Day 53
+
+* Day 54
+
+* Day 55
+
+* Day 56
+
+* Day 57
+
+* Day 58
+
+* Day 59
+
+* Day 60
