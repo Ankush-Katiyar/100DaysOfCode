@@ -22,9 +22,9 @@ Half Pyramid Problem
 * Day 7
 Scanner Class
 * Day 8
-
-* Day 9
-
+Scanner Class
+* Day 9 
+Arrays
 * Day 10
 
 * Day 11
