@@ -28,23 +28,23 @@ Arrays
 * Day 10
 2D Arrays
 * Day 11
-
+Find location of x in the 2d array
 * Day 12
-
+Basics String Builder
 * Day 13
-
+Bit Manipulation
 * Day 14
-
+Bubble sort basics
 * Day 15
-
+Recursion basics
 * Day 16
-
+Print sum of first n natural numbers.
 * Day 17
-
+recursion
 * Day 18
-
+Print fibonacci series till nth term
 * Day 19
-
+Print x^n (stack height = logn)
 * Day 20
 
 * Day 21
