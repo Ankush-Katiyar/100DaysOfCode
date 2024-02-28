@@ -126,3 +126,39 @@ Print x^n (stack height = logn)
 * Day 59
 
 * Day 60
+
+* Day 61
+
+* Day 62
+
+* Day 63
+
+* Day 64
+
+* Day 65
+
+* Day 66
+
+* Day 67
+
+* Day 68
+
+* Day 69
+
+* Day 70
+
+* Day 71
+
+* Day 72
+
+* Day 73
+
+* Day 74
+
+* Day 75
+
+* Day 76
+
+* Day 77
+
+* Day 78
