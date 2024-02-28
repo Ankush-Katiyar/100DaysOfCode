@@ -46,15 +46,15 @@ Print fibonacci series till nth term
 * Day 19
 Print x^n (stack height = logn)
 * Day 20
-
+Tower Of Hanoi
 * Day 21
-
+print string in reverse.
 * Day 22
-
+Find the 1st & last occurrence of an element in the string.
 * Day 23
-
+check if an array is sorted (striclty increasing)
 * Day 24
-
+Remove duplicates in a string "abbccda"
 * Day 25
 
 * Day 26
