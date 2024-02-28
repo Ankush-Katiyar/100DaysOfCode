@@ -20,7 +20,7 @@ While and Do While
 * Day 6
 Half Pyramid Problem
 * Day 7
-
+Scanner Class
 * Day 8
 
 * Day 9
