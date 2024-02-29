@@ -66,29 +66,29 @@ Find the number of ways in which you can invite n people to your party, single o
 * Day 29
 
 * Day 30
-  
+Nqueens Question
 * Day 31
-
+Suduko Question
 * Day 32
-
+Merge sort of 6,3,9,5,2,8
 * Day 33
-
+QUICK SORT
 * Day 34
 
 * Day 35
-
+Basics of constructor
 * Day 36
 
 * Day 37
-
+Abstract class
 * Day 38
 
 * Day 39
-
+Array List in  Java
 * Day 40
-
+Linked list
 * Day 41
-
+Linked List
 * Day 42
 
 * Day 43
