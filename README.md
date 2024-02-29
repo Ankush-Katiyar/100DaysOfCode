@@ -58,11 +58,11 @@ Remove duplicates in a string "abbccda"
 * Day 25
 
 * Day 26
-
+Find permutation of the strings : abc
 * Day 27
-
+Place tiles of size 1xm in a floor of size nxm n=3, m=3
 * Day 28
-
+Find the number of ways in which you can invite n people to your party, single or in pairs, n=4
 * Day 29
 
 * Day 30
