@@ -90,9 +90,9 @@ Linked list
 * Day 41
 Linked List
 * Day 42
-
+Reverse Linked List
 * Day 43
-
+Find nth from the end.
 * Day 44
 
 * Day 45
