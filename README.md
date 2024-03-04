@@ -96,7 +96,7 @@ Find nth from the end.
 * Day 44
 Palendrome Question LeetCode Linked List.
 * Day 45
-
+stack using Linked List
 * Day 46
 
 * Day 47
