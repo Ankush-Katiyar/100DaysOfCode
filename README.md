@@ -178,3 +178,5 @@ stack using Linked List
 * Day 85
 
 * Day 86
+
+* Day 87
