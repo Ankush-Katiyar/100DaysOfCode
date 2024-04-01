@@ -194,3 +194,5 @@ stack using Linked List
 * Day 93
 
 * Day 94
+
+* Day 95
