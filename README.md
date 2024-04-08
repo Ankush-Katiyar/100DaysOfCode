@@ -7,6 +7,7 @@ Designed through Canva
 </div>
 
 I am committing to 100 days of code challenge, Don't forget to follow me on Linkedin and Twitter!!
+
 * Day 1
 Practiced basics of Hello World.
 * Day 2
